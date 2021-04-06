@@ -34,7 +34,6 @@ BOOL CTestDlg::OnInitDialog()
 	L"마스터:변경,커밋,푸시.";
 	L"분기생성2:변경,커밋,푸시.";
 	L"마스터:되돌리기 다시 연습";
-	L"마스터:이 줄 지우기";
 
 	return TRUE;
 }
