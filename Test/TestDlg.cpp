@@ -26,8 +26,7 @@ BOOL CTestDlg::OnInitDialog()
 {
 	CDialog::OnInitDialog();
 
-	AfxMessageBox(L"마스터:킷허브에서 만들어 짐");
-	AfxMessageBox(L"마스터:커밋 한번 해서 뒤로 돌려볼꺼임");
+	AfxMessageBox(L"마스터:킷허브에서 만들어 짐");	
 
 	return TRUE;
 }
