@@ -31,6 +31,8 @@ BOOL CTestDlg::OnInitDialog()
 	AfxMessageBox(L"마스터:다시설정 변경내용 유지 했더니 변경내용으로 나왔음 아마 내용 삭제 했으면 윗줄 없어 질듯");
 	AfxMessageBox(L"마스터:다시설정 했더니 같은 소스 변경 되서 그런지 병합나왔음");
 	AfxMessageBox(L"마스터:지우는거 성공 되돌리기 하면 지워진다.");
+	AfxMessageBox(L"분기:생성");
+	AfxMessageBox(L"분기:커밋&푸시");
 	AfxMessageBox(L"마스터:변경,커밋,푸시.");
 
 	return TRUE;
