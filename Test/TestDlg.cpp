@@ -33,6 +33,7 @@ BOOL CTestDlg::OnInitDialog()
 	AfxMessageBox(L"마스터:지우는거 성공 되돌리기 하면 지워진다.");
 	AfxMessageBox(L"분기:생성");
 	AfxMessageBox(L"분기:커밋&푸시");
+	AfxMessageBox(L"마스터:변경,커밋,푸시.");
 
 	return TRUE;
 }
